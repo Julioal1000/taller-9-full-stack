@@ -8,7 +8,9 @@
 <a href="https://www.figma.com/file/063pXV8b889AXZJd9JjbTt/JULIO-RUIZ-ejercicio-figma?type=design&node-id=4%3A249&t=D9RMxGEwgqapGEJ9-1">Link Figma</a>
 
 <h2> Punto 2: HTML</h2>
-<img src="./publics/images/punto2.png"
+<img src="/publics/images/punto2.png"
 alt="punto2">
+
+
 
 
