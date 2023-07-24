@@ -1,0 +1,27 @@
+.Rojo{
+    color: red;
+}
+.Azul{
+    color: blue;
+}
+.verde{
+    color: green;
+}
+.subrayado{
+    text-decoration: overline underline; 
+}
+.altura{
+    font-size:xx-large ;
+    font-weight: bold;
+}
+.subrayado2{
+    text-decoration: underline; 
+    font-weight: bold;
+    font-size:larger ;
+}
+.Azul2{
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline; 
+    font-size:larger ;
+}
