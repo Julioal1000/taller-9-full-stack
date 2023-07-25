@@ -1,0 +1,33 @@
+#table{
+    font-family: 'jost';
+    font-size: 25px;
+}
+.encabezado{
+    background-color: yellow;
+    font-family: 'jost';
+    font-size: 18px;
+    color: red;
+}
+.fila-1{
+    background-color: yellow;
+    font-family: 'jost';
+    font-size: 12px;
+}
+.fila-2{
+    background-color: yellow;
+    font-family: 'jost';
+    font-size: 12px; 
+}
+.fila-3{
+    background-color: yellow;
+    font-family: 'jost';
+    font-size: 12px;
+}
+.table, td{
+border: 0.1px solid;
+border-color: black;
+border-collapse: collapse;
+border-style: dashed;
+bor
+
+}

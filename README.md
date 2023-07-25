@@ -30,6 +30,10 @@ alt="punto5">
 <img src="/publics/images/punto 6.png" 
 alt="punto6">
 
-<h2> Punto 7: Enlaces </h2>
+<h2> Punto 7-8: Enlaces </h2>
 <img src="/publics/images/punto 7.png" 
 alt="punto7">
+
+<h2> Punto 9: Enlaces </h2>
+<img src="/publics/images/punto 9.png" 
+alt="punto9">
