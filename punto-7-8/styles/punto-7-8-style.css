@@ -1,0 +1,15 @@
+#banner{
+    padding: 20px 50px;
+    background: #fd909e;
+}
+.button-one{
+    margin-right: 10px;
+    background-color: #fd909e;
+    color: #fff;
+    border: none;
+    font-family: 'jost';
+    font-size: 25px;
+}
+.button-one:hover{
+    background-color: blue;
+}
