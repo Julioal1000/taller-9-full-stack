@@ -14,6 +14,20 @@
 <img src="/publics/images/punto2.png"
 alt="punto2">
 
+<h2> Punto 3: Pagina Web</h2>
+<img src="/publics/images/punto 3.png"
+alt="punto3">
 
+<h2> Punto 4: Titulos</h2>
+<img src="/publics/images/punto 4.png" 
+alt="punto4">
+
+<h2> Punto 5: Estilos de texto</h2>
+<img src="/publics/images/punto 5.png" 
+alt="punto5">
+
+<h2> Punto 6: Enlaces </h2>
+<img src="/publics/images/punto 6.png" 
+alt="punto6">
 
 
